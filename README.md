@@ -10,3 +10,4 @@
 <img width="680" height="1209" alt="softonic-helper-softonichelper-screenshot-7" src="https://github.com/user-attachments/assets/e329b953-4357-4d02-adae-39857b365088" />
 Android 12.1
 Android
+www.softonic.com.br/download/softonic-helper/android/post-download?dt=internalDownload
