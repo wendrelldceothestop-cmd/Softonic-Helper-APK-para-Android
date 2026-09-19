@@ -1,0 +1,1 @@
+# Softonic-Helper-APK-para-Android
